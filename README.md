@@ -1,4 +1,4 @@
-## Hi, i'm VerSolve
+## Hi there, i'm VerSolve
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3QFKh5NdRx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferdianssyh_) 
